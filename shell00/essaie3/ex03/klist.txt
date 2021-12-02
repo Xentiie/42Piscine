@@ -1,0 +1,6 @@
+Credentials cache: API:DE3A94A6-351A-4E1E-9A33-9A17362EBEC9
+        Principal: reclaire@42MULHOUSE.FR
+
+  Issued                Expires               Principal
+Nov  8 09:44:30 2021  Nov  8 19:44:30 2021  krbtgt/42MULHOUSE.FR@42MULHOUSE.FR
+Nov  8 09:44:32 2021  Nov  8 19:44:30 2021  HTTP/student-storage.42mulhouse.fr@42MULHOUSE.FR
